@@ -1,0 +1,25 @@
+# --- Python & Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.pytest_cache/
+
+# --- Virtual Environments ---
+venv/
+env/
+.env
+.venv
+ENV/
+
+# --- Data & Large Files ---
+# Ignore everything in /data except the folder itself
+# This prevents accidentally uploading massive CSVs
+data/*
+!data/.gitkeep
+
+# --- OS & IDEs ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
