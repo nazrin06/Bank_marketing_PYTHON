@@ -6,10 +6,10 @@ Business Question:
 Executive Summary
 This project analyzes customer demographic, economic, and campaign data to predict which clients are most likely to subscribe to a term deposit. By identifying high-probability segments—such as students, retirees, and university graduates—the bank can transition from "mass calling" to a data-driven, targeted strategy.
 
-Key Decisions
--Feature Prioritization: Age and Euribor 3-month rates were identified as the primary drivers of subscription behavior, outweighing traditional demographic factors like job type in predictive power.
--Segment Targeting: Focused analysis on high-conversion groups (Students/Retired) despite their smaller total volume in the dataset compared to the University Degree segment.
--Metric Focus: Prioritized call duration as a leading indicator of interest, using it to distinguish between successful and unsuccessful engagements.
+Key Decisions (with visuals attached)
+-Feature Prioritization: Age and Euribor 3-month rates were identified as the primary drivers of subscription behavior, outweighing traditional demographic factors like job type in predictive power. !(visuals/top_features.png)
+-Segment Targeting: Focused analysis on high-conversion groups (Students/Retired) despite their smaller total volume in the dataset compared to the University Degree segment. !(visuals/term_deposit_subs_by_jobs.png)
+-Metric Focus: Prioritized call duration as a leading indicator of interest, using it to distinguish between successful and unsuccessful engagements. !(visuals/duration_by_subscription.png)
 
 
 Risks & Constraints
