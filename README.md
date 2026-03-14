@@ -9,7 +9,7 @@ This project analyzes customer demographic, economic, and campaign data to predi
 Key Decisions (with visuals attached)
 -Feature Prioritization: Age and Euribor 3-month rates were identified as the primary drivers of subscription behavior, outweighing traditional demographic factors like job type in predictive power. [visuals/top_features.png](https://github.com/nazrin06/Bank_marketing_PYTHON/blob/e11a1f650f73f655ebed654743e9b68948108b57/visuals/top_features.png)
 
--Segment Targeting: Focused analysis on high-conversion groups (Students/Retired) despite their smaller total volume in the dataset compared to the University Degree segment. !(visuals/term_deposit_subs_by_jobs.png)
+-Segment Targeting: Focused analysis on high-conversion groups (Students/Retired) despite their smaller total volume in the dataset compared to the University Degree segment. [!(visuals/term_deposit_subs_by_jobs.png)](https://github.com/nazrin06/Bank_marketing_PYTHON/blob/54e496a236f4c9a0921a802e2621d8a969f6c02c/visuals/term_deposit_subs_by_jobs.png)
 
 -Metric Focus: Prioritized call duration as a leading indicator of interest, using it to distinguish between successful and unsuccessful engagements. [!(visuals/duration_by_subscription.png)](https://github.com/nazrin06/Bank_marketing_PYTHON/blob/6e7d0467d967642225fe25cc9e27146f7b3d7007/visuals/duration_by_subscription.png)
 
